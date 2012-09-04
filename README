@@ -1,6 +1,8 @@
-Yijing in Translation is written using wxPython. It provides a number of different 
-translations of the Yijing (or I Ching). This is the ancient Chinese book of divination 
-which uses randomness to answer questions both personal and cosmic. The text can be 
-read straight through or accessed through a number of different randomness modules. 
+Yijing in Translation is written using wxPython. It provides a number of 
+different translations of the Yijing (or I Ching). This is the ancient 
+Chinese book of divination which uses randomness to answer questions both 
+personal and cosmic. The text can be read straight through or accessed 
+through a number of different randomness modules. Adobe Acroread is used 
+to view the pdf files for each page of the translation texts.
 
 http://yijingintranslation.com
